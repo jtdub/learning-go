@@ -31,7 +31,7 @@
   * Garbage collected
     * systematic recovery of pooled computer storage that is used by a program when that program no longer needs the storage. It's a automatic memory management feature.
   * Simplicity as a core value
-  * Enhances maintainability by erroring on unused packages at compile time
+  * Enhances maintainability by erroring on unused packages and stylistic errors at compile time
   * whitespace isn't enforced, but it is strongly encouraged
 
 ### What is Go Good At?
@@ -343,3 +343,7 @@ jtdub@jamess-mbp learning-go %
 
 ## Visual Studio Code Setup
 
+## Resources
+
+* https://golang-for-python-programmers.readthedocs.io/en/latest/
+* http://golang.org/doc/effective_go.html
